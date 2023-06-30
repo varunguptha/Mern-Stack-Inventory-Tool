@@ -1,0 +1,51 @@
+.product-summary {
+    width: 100%;
+
+    .info-summary {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+.card {
+    border: 1px solid #ccc;
+    // border-bottom: 3px solid var(--light-blue);
+    padding: 5px;
+    background-color: #f5f6fa;
+}
+
+.card1 {
+    background-color: #b624ff;
+    margin-right: 1rem;
+    margin-left: 5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.card2 {
+    background-color: #32963d;
+    margin-right: 1rem;
+    margin-left: 5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.card3 {
+    background-color: #c41849;
+    margin-right: 1rem;
+    margin-left: 5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.card4 {
+    background-color: #03a5fc;
+    margin-right: 1rem;
+    margin-left: 5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
